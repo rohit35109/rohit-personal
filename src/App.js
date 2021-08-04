@@ -63,7 +63,7 @@ function App() {
               <div className="row mt-5">
                   <div className="col-12 text-center">
                       <p className="fst-italic">
-                          <b>Hello!!!</b> I am an experienced Software Engineer & Architect and I am glad that you are here looking my profile.
+                          <b>Hello!!</b> I am an experienced Software Engineer & Architect and I am glad that you are here looking my profile.
                       </p>
                       <p className="fst-italic">
                           Website is still under development and you can connect with me through social sites.
