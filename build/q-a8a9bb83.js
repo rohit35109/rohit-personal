@@ -1,0 +1,1 @@
+import{k as e,h as r,_ as t}from"./q-066b480f.js";const o=e(r(()=>t(()=>import("./q-bbaa1338.js"),["build/q-bbaa1338.js","build/q-066b480f.js"]),"s_B0lqk5IDDy4")),i={title:"Rohit Kumar S | Freelance Software Developer",meta:[{name:"description",content:"Freelance Software Developer | 10 years of experience | Angular | NodeJS | ReactJS | Azure"}]};export{o as default,i as head};
